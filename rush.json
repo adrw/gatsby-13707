@@ -265,8 +265,13 @@
       "shouldPublish": false
     },
     {
-      "packageName": "site",
-      "projectFolder": "site",
+      "packageName": "site-pinned-version",
+      "projectFolder": "site-pinned-version",
+      "shouldPublish": false
+    },
+    {
+      "packageName": "site-star-version",
+      "projectFolder": "site-star-version",
       "shouldPublish": false
     }
 

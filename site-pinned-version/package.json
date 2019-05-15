@@ -1,5 +1,5 @@
 {
-  "name": "site",
+  "name": "site-pinned-version",
   "version": "0.0.1",
   "description": "A site we built on the livestream about Gatsby Themes.",
   "main": "gatsby-config.js",
